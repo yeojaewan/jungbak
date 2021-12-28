@@ -300,6 +300,7 @@ main .nomal_page .names_box .first_name li:nth-child(2) span{color: #777777;}
 
 main .nomal_page .nomal_btns ul li{position: relative; float: left; border: 1px solid rgba(221,221,221,0.50); box-sizing: border-box; width: 90px; height: 90px; text-align: center; font-size: 13px; color: #777777;}
 main .nomal_page .nomal_btns ul li a{text-indent: -9999px; display: block; height: 88px; background: url(../img/contbox_90x90.png)no-repeat; text-indent: -9999px; background-position: -1px -1px;}
+main .nomal_page .nomal_btns ul li a:hover{text-indent: -9999px; display: block; height: 88px; background: url(../img/contbox_90x90_hover.png)no-repeat; text-indent: -9999px; background-position: -1px -1px;}
 
 main .nomal_page .nomal_btns ul li:nth-child(1){border-left: 0; border-right: 0; border-top: 0; border-bottom: 0;}
 main .nomal_page .nomal_btns ul li:nth-child(2){border-right: 0; border-top: 0; border-bottom: 0;}
